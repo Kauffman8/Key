@@ -8,6 +8,9 @@ html{
   -o-background-size: cover;
   background-size: cover;
 }
+.url{
+    opacity: 0.1:
+}
 h1 {
     font-size: 30px;
     text-align: center;
@@ -29,3 +32,4 @@ h3 {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
